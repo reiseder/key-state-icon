@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.12501 238.12501"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="caps-num-on-256px.png"
+   inkscape:export-xdpi="27.306667"
+   inkscape:export-ydpi="27.306667"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="caps-num-on.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#ffffff00"
+     inkscape:zoom="1"
+     inkscape:cx="235"
+     inkscape:cy="539.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="100.34443"
+       y="100.34443"
+       width="299.69536"
+       height="301.03329"
+       id="rect3" />
+    <rect
+       x="97.668578"
+       y="99.006504"
+       width="302.37121"
+       height="301.03329"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ecc2c3" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font';white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ffffff" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.099px;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font';fill:#00d700;fill-opacity:1;stroke-width:0.476994"
+       x="132.59435"
+       y="112.4482"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="132.59435"
+         y="112.4482"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font Bold';fill:#00d700;fill-opacity:1;stroke-width:0.476994">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:139.178px;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font Bold';fill:#00d700;fill-opacity:1;stroke-width:0.463929"
+       x="21.791721"
+       y="111.08869"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="21.791721"
+         y="111.08869"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font Bold';fill:#00d700;fill-opacity:1;stroke-width:0.463929">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:139.178px;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font';fill:#f9f9f9;stroke-width:0.463927;fill-opacity:1"
+       x="78.627411"
+       y="223.53668"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="78.627411"
+         y="223.53668"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font Bold';fill:#f9f9f9;stroke-width:0.463927;fill-opacity:1">S</tspan></text>
+  </g>
+</svg>
