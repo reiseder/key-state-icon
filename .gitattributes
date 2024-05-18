@@ -1,0 +1,19 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+*.gif   binary
+*.jpg   binary diff
+*.jpeg  binary diff
+*.png   binary diff 
+
+# Force bash scripts to always use lf line endings so that if a repo is accessed
+# in Unix via a file share from Windows, the scripts will work.
+*.in text eol=lf
+*.sh text eol=lf
+
+# Likewise, force cmd and batch scripts to always use crlf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Force Visual Studio solution file to always use crlf
+*.sln text=auto eol=crlf
