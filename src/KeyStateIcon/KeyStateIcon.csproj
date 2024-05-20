@@ -7,6 +7,17 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>True</UseWindowsForms>
     <ApplicationIcon>..\..\res\icons\all-on\all-on.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <Authors>Matthias Reiseder</Authors>
+    <Product>KeyStateIcon</Product>
+    <PackageId>KeyStateIcon</PackageId>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Description>A small Windows application to show Caps Lock, Num Lock and Scroll Lock states in the task bar.</Description>
+    <Copyright>Copyright © Matthias Reiseder 2024</Copyright>
+    <PackageLicenseUrl>https://github.com/reiseder/key-state-icon/blob/main/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/reiseder/key-state-icon</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/reiseder/key-state-icon</RepositoryUrl>
+    <PackageReleaseNotes>https://github.com/reiseder/key-state-icon/blob/main/CHANGELOG.md</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
